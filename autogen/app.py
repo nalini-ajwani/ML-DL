@@ -3,7 +3,7 @@ import autogen
 config_list = [
     {
         'model': 'gpt-3.5-turbo-16k',
-        'api_key': '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'
+        'api_key': ':p'
     }
 ]
 
